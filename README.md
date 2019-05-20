@@ -2,11 +2,10 @@
 placeholder for the hackathon 
 Please fork this project 
 
-TeamName: <TEAMNAME>
-team members: <member 1>
-              <member 2>
-              <member 3>
-              <member 4>
-              <member 5>
+TeamName: KGB
+team members: Anna Zarubina
+              Inna Akundinova
+              Dmitry Potoskuev
+              Alina Kiseleva
 
-Project: Project name 
+Project: brainheap
